@@ -200,3 +200,17 @@ nav a:hover {
   color: #2980b9;
   text-decoration: underline;
 }
+
+/* Align delivery form to the right slightly */
+form {
+  margin-left: 40px;
+  max-width: 400px;
+}
+
+form input,
+form select {
+  margin-bottom: 12px;
+  padding: 8px;
+  width: 100%;
+  box-sizing: border-box;
+}
